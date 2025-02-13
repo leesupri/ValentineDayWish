@@ -40,8 +40,11 @@ Images	              img/	                                Replace photo.jpg with
 Colors & Styles	      style/style.css	                    Customize colors, fonts, and animations.
 🔧 No coding skills? No problem! Just replace files, and you're done! 😊
 
+🎉 Live Preview
+🌍 Host it on https://leesupri.github.io/ValentineDayWish/!
 
-Contribute & Make it Even Better!
+
+💡Contribute & Make it Even Better!
 Want to improve this project? Feel free to:
 
 ⭐ Star the repo if you like it!
