@@ -238,6 +238,7 @@ const animationTimeline = () => {
       },
       "party"
     )
+
     .staggerTo(
       ".eight svg",
       1.5,
@@ -255,7 +256,20 @@ const animationTimeline = () => {
       y: 30,
       zIndex: "-1",
     })
+    .staggerFrom(
+      ".gift",
+      0.5,
+      {
+        scale: 3.5,
+        opacity: 0,
+        x: 25,
+        y: -25,
+        rotationZ: -45,
+      },
+      "-=2"
+    )
     .staggerFrom(".nine p", 1, ideaTextTrans, 1.2)
+
     .to(
       ".last-smile",
       0.5,
@@ -264,7 +278,6 @@ const animationTimeline = () => {
       },
       "+=1"
     );
-
   // tl.seek("currentStep");
   // tl.timeScale(2);
 
