@@ -20,7 +20,6 @@ This is a heartfelt, interactive web page designed to **spread love and joy** on
 
 ## 🚀 How to Use
 ### **1️⃣ Clone the Repository**
-```bash
 git clone https://github.com/leesupri/ValentineDayWish.git
 cd ValentineDayWish
 2️⃣ Open in Browser
